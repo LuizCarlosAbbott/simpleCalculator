@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simpleCalculator/static/css/main.02ac42fa.chunk.css",
+    "main.js": "/simpleCalculator/static/js/main.4566df80.chunk.js",
+    "main.js.map": "/simpleCalculator/static/js/main.4566df80.chunk.js.map",
+    "runtime~main.js": "/simpleCalculator/static/js/runtime~main.93b3baed.js",
+    "runtime~main.js.map": "/simpleCalculator/static/js/runtime~main.93b3baed.js.map",
+    "static/js/2.bb80dcb8.chunk.js": "/simpleCalculator/static/js/2.bb80dcb8.chunk.js",
+    "static/js/2.bb80dcb8.chunk.js.map": "/simpleCalculator/static/js/2.bb80dcb8.chunk.js.map",
+    "index.html": "/simpleCalculator/index.html",
+    "precache-manifest.2a548a950002ff1b1f14cc793d0a602a.js": "/simpleCalculator/precache-manifest.2a548a950002ff1b1f14cc793d0a602a.js",
+    "service-worker.js": "/simpleCalculator/service-worker.js",
+    "static/css/main.02ac42fa.chunk.css.map": "/simpleCalculator/static/css/main.02ac42fa.chunk.css.map",
+    "static/media/index.css": "/simpleCalculator/static/media/RobotoMono-Thin.288302ea.ttf"
+  }
+}
